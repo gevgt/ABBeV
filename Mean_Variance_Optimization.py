@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
-import xlwings as xw
 from pytictoc import TicToc
 import pandas_datareader as pdr
 
